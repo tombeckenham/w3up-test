@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## .env
+
+Follow https://docs.storacha.network/how-to/upload/#bring-your-own-delegations
+
+Create these environment variables in `.env.development.local`
+
+`W3_DELEGATED_KEY=<DELEGATED_KEY>`
+
+`W3_DELEGATED_PROOF=<DELEGATED_PROOF>`
+
 ## Getting Started
 
 First, run the development server:
